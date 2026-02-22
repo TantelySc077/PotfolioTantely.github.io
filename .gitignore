@@ -1,0 +1,10 @@
+# Git Ignore
+
+node_modules/
+.DS_Store
+*.log
+.gemini/
+brain/
+task.md
+test.c
+Main.java
